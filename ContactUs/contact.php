@@ -59,7 +59,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CBO LIFE</title>
+	<title>Test</title>
 	<link rel="stylesheet"  href="https://bootswatch.com/4/minty/bootstrap.min.css">
 
 </head>
@@ -67,7 +67,7 @@
 		<nav class = "navbar navbar-default">
 			<div class = "container">
 				<div class = "navbar-header">
-					<a class = "navbar-brand" href="contact.php">CBO LIFE</a>
+					<a class = "navbar-brand" href="contact.php">Test Contact form</a>
 				</div>
 			</div>
 		</nav>
